@@ -9,7 +9,7 @@ import android.graphics.drawable.VectorDrawable;
 
 public class Equipo {
     private String nombre;
-     public Drawable escudo;
+    private Drawable escudo;
 
     public Equipo(String nombre, Drawable escudo){
         this.nombre=nombre;
